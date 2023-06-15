@@ -1,0 +1,33 @@
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.left-half {
+  width: 50%;
+  padding: 20px;
+}
+
+.right-half {
+  width: 50%;
+  padding: 20px;
+}
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.left-half {
+  width: 50%;
+  padding: 20px;
+}
+
+.right-half {
+  width: 50%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;
+}
+
